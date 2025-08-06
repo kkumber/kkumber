@@ -29,6 +29,7 @@ const angel = {
   tools: ['Figma', 'Postman', 'VSCode', 'Zotero'],
   values: ['Simplicity', 'Purpose-driven design', 'Kindness'],
 };
+```
 🧪 Developer, but Also...
 ✍️ Writer: I love documenting things that others are too afraid to Google twice.
 
@@ -73,4 +74,4 @@ Then we’ll probably get along.
 🌐 Website: kkumber.vercel.app
 💼 LinkedIn: your-profile
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/> </p> 
