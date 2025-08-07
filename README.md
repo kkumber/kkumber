@@ -1,8 +1,8 @@
 # Angel Reyes
-**`Dreamer • Builder • Debugger of Realities`**
+**`Software Developer • Dreamer • Builder • Debugger of Realities`**
 
 <p align="left">
-  Hi, I'm Angel, a full-stack developer who doesn’t just code projects, but breathes life into ideas. Whether I’m building AI-powered applications, sleek frontend interfaces, or robust API architectures, I aim for tools that are purposeful, performant, and beautiful. From concept to deployment, every pixel and endpoint is handcrafted with care.
+  Hi, I'm Angel, a software developer who doesn’t just code projects, but breathes life into ideas. Whether I’m building AI-powered applications, sleek frontend interfaces, or robust API architectures, I aim for tools that are purposeful, performant, and beautiful. From concept to deployment, every pixel and endpoint is handcrafted with care.
 </p>
 
 ---
@@ -25,6 +25,8 @@
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+          
 </p>
 
 ---
